@@ -2,7 +2,7 @@
 #include  <stdio.h>
 
 int  main(){
-  int  letter = 100;
+  int  number = 100;
   printf("%d", number);
 return  0;
 }
